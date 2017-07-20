@@ -5,7 +5,6 @@
 # with time series modeling using Holt-Winters or ARIMA. Additionally, 
 # evaluation of predictions (for 2017) using only 2012-2016 data 
 # for model building is available. 
-# https://lxh77.shinyapps.io/Pharma_Stocks/
 # Prep --------------------------------------------------------------------
 library(MTS)
 library(TTR)
